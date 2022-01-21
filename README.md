@@ -28,3 +28,5 @@ https://console.cloud.google.com/apis/credentials/consent?project=ideal-338914
 
 Web form accessed via QR code with a lambda function to add lines to a spreadsheet and email the coordinator and learner:
 https://medium.com/@jbesw/forms-without-servers-handling-form-submissions-with-lambda-4df9ec5fc473
+https://developers.google.com/sheets/api/guides/concepts
+IDEALultrasoundtraining@gmail.com
